@@ -1,3 +1,3 @@
 # Summer-Analytics-2025
 
-SA2025_W1.ipynb is the solution of week 1 assignment.
+Bhiman_Kr_Dey_SA2025_W1.ipynb is the solution of week 1 assignment.
